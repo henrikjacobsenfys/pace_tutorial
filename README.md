@@ -14,6 +14,6 @@ You also need to then type
 
 `source ~/.bashrc`
 
-Finally, this tutorial runs in Jupyter Notebooks, so open jupyter by typing
+Finally, this tutorial runs in Jupyter Notebooks, so open Jupyter by typing
 
 `jupyter notebook`.
