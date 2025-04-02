@@ -17,3 +17,5 @@ You also need to then type
 Finally, this tutorial runs in Jupyter Notebooks, so open Jupyter by typing
 
 `jupyter notebook`.
+
+(pace can also be installed manually - to do so, follow the installation guidelines on the pace_python github https://github.com/pace-neutrons/pace-python. pace requires Matlab Compiler Runtime to be installed. Be careful to set the right library paths at the end of installation, as the program will not run if this is done incorrectly.)
