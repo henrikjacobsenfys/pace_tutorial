@@ -6,7 +6,9 @@ The easiest way to install pace on VISA is to use the pace_install.sh shell scri
 
 `chmod +x pace_install.sh`
 
-and then execute the script by typing ./pace_install.sh in the terminal. The shell script will set up a conda environment and download and install everything that is needed. When installation is complete, you activate the environment by typing
+and then execute the script by typing 
+`./pace_install.sh`
+in the terminal. The shell script will set up a conda environment and download and install everything that is needed. When installation is complete, you activate the environment by typing
 
 `conda activate pace_env`
 
@@ -14,7 +16,7 @@ You also need to then type
 
 `source ~/.bashrc`
 
-Finally, this tutorial runs in Jupyter Notebooks, so open Jupyter by typing
+Finally, this tutorial uses Jupyter Notebooks, so open Jupyter by typing
 
 `jupyter notebook`.
 
