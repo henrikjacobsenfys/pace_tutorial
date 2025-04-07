@@ -21,4 +21,5 @@ Finally, this tutorial uses Jupyter Notebooks, so open Jupyter by typing
 `jupyter notebook`.
 
 
+
 (If you don't want to use the pace_install.sh script, you can also install pace manually. To do so, follow the installation guidelines on the pace_python github https://github.com/pace-neutrons/pace-python. pace requires Matlab Compiler Runtime to be installed. Be careful to set the right library paths at the end of installation, as the program will not run if this is done incorrectly.)
