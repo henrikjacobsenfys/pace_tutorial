@@ -16,6 +16,8 @@ You also need to then type
 
 `source ~/.bashrc`
 
+If Matlab Runtime is not found, try to close the terminal and open a new one.
+
 Finally, this tutorial uses Jupyter Notebooks, so open Jupyter by typing
 
 `jupyter notebook`.
