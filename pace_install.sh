@@ -19,7 +19,7 @@ cd "$MATLAB_INSTALLER_DIR"
 # Download MATLAB Runtime Installer
 if [ ! -f "$MATLAB_ZIP" ]; then
     echo "Downloading MATLAB Runtime R2024a..."
-    wget -O "$MATLAB_ZIP" "https://ssd.mathworks.com/supportfiles/downloads/R2024a/Release/7/deployment_files/installer/complete/glnxa64/MATLAB_Runtime_R2024a_Update_6_glnxa64.zip"
+    wget -O "$MATLAB_ZIP" "https://ssd.mathworks.com/supportfiles/downloads/R2024a/Release/7/deployment_files/installer/complete/glnxa64/MATLAB_Runtime_R2024a_Update_7_glnxa64.zip"
 else
     echo "MATLAB Runtime zip already exists, skipping download."
 fi
